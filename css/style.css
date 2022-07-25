@@ -1,0 +1,22 @@
+.panda-color{
+    background-color: #fceae8;
+}
+.watch-color{
+    background-color: #ffa500;
+}
+.bag-color{
+    background-color:  #da70d6;
+}
+.shoes-color{
+    background-color: #0000ff;
+}
+.button-color{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.three-item img{
+    width: 90px;
+}
